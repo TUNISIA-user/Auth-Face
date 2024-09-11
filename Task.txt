@@ -1,0 +1,9 @@
+                          [TASK FOR TODAY]
+
+1) do login with your account 
+2) do if user forget his password 
+3) you can do identity with your face 
+
+Face-api.js  https://www.youtube.com/watch?v=CVClHLwv-4I  this turotial for video youtube 
+and this documention 
+
